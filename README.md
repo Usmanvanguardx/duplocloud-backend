@@ -1,5 +1,9 @@
 # duplocloud-backend
-
+note : node version should be greater than 16
+Setup strapi dashboard using any email address
+Create multiple "Home-Card" from Strapi dashboard menu "Content Manager" -> Home-Card -> "create new entry" button
+Then go to "Settings" tab -> "Api Tokens" -> "Create new api token" for Home-Card check options "select all" checks
+Then go to "Roles & Permissions Plugin" -> "Roles" tab then click "Home-Card" and check options "find" & "find one" check.
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
