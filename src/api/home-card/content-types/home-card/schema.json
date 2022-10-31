@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_cards",
+  "info": {
+    "singularName": "home-card",
+    "pluralName": "home-cards",
+    "displayName": "Home-Card"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "body": {
+      "type": "string"
+    }
+  }
+}
